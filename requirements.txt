@@ -1,6 +1,8 @@
+altair==4.2.2
 requests
 pandas
 streamlit
 openpyxl
 playwright
 beautifulsoup4
+
